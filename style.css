@@ -1,0 +1,605 @@
+body{
+    margin: 0;
+}
+.header1{
+    width: 100%;
+    height: 32px;
+    background: #a52a2a;
+}
+.header1-text{
+    margin-left: 445px;
+    color: #fff;
+    font-size: 16px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 600;
+    padding-top: 5px;
+}
+.header2{
+    width: 100%;
+    height: 44px;
+    background: #000;
+    padding-top: 4px;
+    display: flex;
+}
+.icon{
+    width: 41px;
+    background-size: 60px;
+    margin-left: 85px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 55px;
+    background: url(https://cdn.shopify.com/s/files/1/0024/0684/2441/t/14/assets/logo-no-label_50x.png?v=11379398866987560608);
+}
+.gaming-smartphone{
+    color: #8c8c8c;
+    font-size: 16px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 600;
+    margin-top: 6px;
+    margin-left: 277px;
+
+}
+.store{
+    color: #8c8c8c;
+    font-size: 16px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 600;
+    margin-top: 6px;
+    margin-left: 37px;
+
+}
+.redmagic-xp-store{
+    color: #8c8c8c;
+    font-size: 16px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 600;
+    margin-top: 6px;
+    margin-left: 37px;
+
+}
+.blog{
+    color: #8c8c8c;
+    font-size: 16px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 600;
+    margin-top: 6px;
+    margin-left: 37px;
+
+}
+.support{
+    color: #8c8c8c;
+    font-size: 16px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 600;
+    margin-top: 6px;
+    margin-left: 37px;
+
+}
+.sale{
+    color: #ce3a20;
+    font-size: 16px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 600;
+    margin-top: 6px;
+    margin-left: 37px;
+}
+.uesr-icon{
+
+    margin-top: 6px;
+    margin-left: 200px;
+
+}
+.shop-icon{
+    margin-top: 6px;
+    margin-left: 20px;
+}
+.sec1{
+    height: 821px;
+    width: 100%;
+    background: url(https://cdn.shopify.com/s/files/1/0024/0684/2441/files/REDMAGIC_7_Banner-PC_1920x.jpg?v=1646807360);
+    background-position: center;
+}
+.sec1-header{
+    color: #fff;
+    font-size: 2.5rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    padding-left: 97px;
+    font-weight: 700;
+    padding-top: 312px;
+}
+.sec1-text1{
+    color: #fff;
+    font-size: 1.5rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    padding-left: 97px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.sec1-text2{
+    height: 52px;
+    width: 378px;
+    color: #a6a6a6;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-size: 16px;
+    margin-left: 95px;
+    margin-top: 10px;
+    font-weight: 500;
+}
+.sec1-links{
+    width: 279px;
+    height: 35px;
+    margin-left: 97px;
+    display: flex;
+}
+.sec1-link1{
+    width: 102px;
+    height: 30px;
+    background-color: #ce3a20;
+    font-size: 16px;
+    padding-top: 9px;
+    padding-left: 23px;
+    font-weight: 400;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.sec1-link2{
+    width: 111px;
+    height: 29px;
+    background-color: transparent;
+    font-size: 16px;
+    padding-top: 7px;
+    margin-left: 31px;
+    border: solid 1px #ce3a20;
+    padding-left: 21px;
+    font-weight: 400;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.sec2{
+    width: 100%;
+    height: 821px;
+    background: url(https://cdn.shopify.com/s/files/1/0024/0684/2441/files/new_1920x.jpg?v=1632746948);
+    background-position: center;
+}
+.sec2-header{
+    color: #fff;
+    font-size: 2.5rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    padding-left: 97px;
+    font-weight: 700;
+    padding-top: 312px;
+}
+.sec2-text1{
+    color: #fff;
+    font-size: 1.5rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    padding-left: 97px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.sec2-text2{
+    height: 52px;
+    width: 483px;
+    color: #a6a6a6;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-size: 16px;
+    margin-left: 95px;
+    margin-top: 10px;
+    font-weight: 500;
+}
+.sec2-links{
+    width: 279px;
+    height: 35px;
+    margin-left: 97px;
+    display: flex;
+}
+.sec2-link1{
+    width: 102px;
+    height: 30px;
+    background-color: #ce3a20;
+    font-size: 16px;
+    padding-top: 9px;
+    padding-left: 23px;
+    font-weight: 400;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.sec2-link2{
+    width: 111px;
+    height: 29px;
+    background-color: transparent;
+    font-size: 16px;
+    padding-top: 7px;
+    margin-left: 31px;
+    border: solid 1px #ce3a20;
+    padding-left: 21px;
+    font-weight: 400;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.sec3{
+    width: 100%;
+    height: 501px;
+    background: #121212;
+    display: inline-flex;
+}
+.sec3-banner1{
+    width: 644px;
+    height: 469px;
+    background: url(https://cdn.shopify.com/s/files/1/0024/0684/2441/files/REDMAGIC_XP_Store-PC_960x480.jpg?v=1646881033);
+    background-position: center;
+    margin-left: 16px;
+    margin-top: 19px;
+}
+.sec3-banner1-head{
+    width: 323px;
+    height: 45px;
+    margin-left: 181px;
+    color: #f7f7f7;
+    font-size: 1.7rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.sec3-banner1-text{
+    width: 378px;
+    height: 34px;
+    font-size: 1.125rem;
+    color: #f7f7f7;
+    text-align: center;
+    margin-left: 149px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.sec3-banner1-link{
+    width: 100px;
+    text-align: center;
+    margin-left: 280px;
+    font-weight: 500;
+    height: 30px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.sec3-banner2{
+    width: 644px;
+    height: 469px;
+    background: url(https://cdn.shopify.com/s/files/1/0024/0684/2441/files/bannerpc_960x480.jpg?v=1628133015);
+    background-position: center;
+    margin-left: 16px;
+    margin-top: 19px;
+}
+.sec3-banner2-head{
+    width: 424px;
+    height: 45px;
+    margin-left: 144px;
+    color: #f7f7f7;
+    font-size: 1.7rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.sec3-banner2-text{
+    width: 378px;
+    height: 34px;
+    font-size: 1.125rem;
+    color: #f7f7f7;
+    text-align: center;
+    margin-left: 149px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.sec3-banner2-link{
+    width: 150px;
+    text-align: center;
+    margin-left: 280px;
+    font-weight: 500;
+    height: 30px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.sec4{
+    width: 100%;
+    height: 193px;
+    background: #121212;
+    display: inline-flex;
+}
+.sec4-head1{
+    width: 348px;
+    height: 53px;
+    color: #f7f7f7;
+    font-size: 1.7rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 500;
+    padding-top: 36px;
+    margin-left: 193px;
+}
+.sec4-text1{
+    width: 307px;
+    height: 67px;
+    color: #ce3a20;
+    font-size: 17px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+    margin-left: 117px;
+}
+.sec4-head2{
+    width: 348px;
+    height: 53px;
+    color: #f7f7f7;
+    font-size: 1.7rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 500;
+    padding-top: 36px;
+    margin-left: 54px;
+}
+.sec4-text2{
+    width: 307px;
+    height: 67px;
+    color: #ce3a20;
+    font-size: 17px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+    margin-left: 0px;
+    text-align: center;
+}
+.sec4-head3{
+    width: 348px;
+    height: 53px;
+    color: #f7f7f7;
+    font-size: 1.7rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 500;
+    padding-top: 36px;
+    margin-left: 54px;
+}
+.sec4-text3{
+    width: 307px;
+    height: 67px;
+    color: #ce3a20;
+    font-size: 17px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+    margin-left: 0px;
+}
+.sec5{
+    width: 100%;
+    height: 477px;
+    background: #121212;
+}
+.sec5-banner{
+    width: 1190px;
+    height: 468px;
+    display: flex;
+    margin-left: 85px;
+}
+.sec5-banner-box1{
+    width: 592px;
+    height: 470px;
+    background: #000000;
+}
+.sec5-banner-box1-text1{
+    margin-bottom: .5rem;
+    font-size: 1.6rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #f7f7f7;
+    margin-top: 37px;
+    margin-left: 129px;
+}
+.sec5-banner-box1-text2{
+    margin-bottom: .5rem;
+    font-size: 1.6rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 129px;
+}
+.sec5-banner-box1-text3{
+    margin-bottom: .5rem;
+    font-size: 1.6rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 129px;
+}
+.sec5-banner-box1-text4{
+    margin-bottom: .5rem;
+    font-size: 1.6rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 129px;
+}
+.sec5-banner-box1-text5{
+    margin-bottom: .5rem;
+    font-size: 1.6rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 129px;
+}
+.sec5-banner-box1-text6{
+    margin-bottom: .5rem;
+    font-size: 1.6rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 129px;
+}
+.sec5-banner-box1-text7{
+    width: 351px;
+    height: 77px;
+    color: #d9d9d9;
+    font-size: .875rem;
+    margin-top: 101px;
+    margin-left: 130px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.sec5-banner-box2{
+    width: 592px;
+    height: 470px;
+    background: url(https://cdn.shopify.com/s/files/1/0024/0684/2441/files/Flagship_chip_Snapdragon_8_Gen_1_c0476cb6-1491-443f-902c-756031a0d1b3.jpg?v=1646894213);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 932px;
+}
+.sec6{
+    width: 100%;
+    height: 171px;
+    background: #121212;
+    display: inline-flex;
+}
+.sec6-box1{
+    width: 282px;
+    height: 133px;
+    margin-left: 150px;
+}
+.sec6-cart-icon{
+    margin-left: 111px;
+    margin-top: 14px;
+    color: #8c8c8c;
+}
+.sec6-box1-text1{
+    color: #f7f7f7;
+    text-align: center;
+    font-size: 16px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.sec6-box2{
+    width: 282px;
+    height: 133px;
+    margin-left: 119px;
+}
+.sec6-icon2{
+    margin-left: 88px;
+    margin-top: 14px;
+    color: #8c8c8c;
+}
+.sec6-box2-text1{
+    color: #f7f7f7;
+    width: 219px;
+    text-align: center;
+    font-size: 17px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.sec6-box3{
+    width: 282px;
+    height: 133px;
+    margin-left: 119px;
+}
+.sec6-icon3{
+    margin-left: 88px;
+    margin-top: 14px;
+    color: #8c8c8c;
+}
+.sec6-box3-text1{
+    color: #f7f7f7;
+    width: 208px;
+    text-align: center;
+    font-size: 17px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.sec6-box3-link{
+    font-size: 17px;
+    margin-left: 54px;
+    margin-top: 11px;
+}
+.sec7{
+    width: 100%;
+    height: 612px;
+    background: #000000;
+    display: inline-block;
+}
+.sec7-email{
+    width: 547px;
+    height: 154px;
+    margin-top: 13px;
+    margin-left: 395px;
+}
+.sec7-email-text{
+    color: #f7f7f7;
+    text-align: center;
+    font-size: 1.125rem;
+    font-family: Monda,Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.sec7-email-bar{
+    display: flex;
+    margin-top: 18px;
+    margin-left: 108px;
+}
+.email-bar{
+    width: 224px;
+    height: 44px;
+    background: transparent;
+    border: solid 1px #ce3a20;
+    font-size: 17px;
+    padding-left: 20px;
+}
+.sub-button{
+    width: 120px;
+    height: 47px;
+    background: #ce3a20;
+    border: solid #ce3a20;
+    color: #f7f7f7;
+    font-size: 18px;
+}
+.footer-box-texts{
+    width: 1325px;
+    height: 256px;
+    display: flex;
+}
+.footer-box1{
+    margin-left: 33px;
+    color: #a6a6a6;
+    font-size: 11.9px;
+    line-height: 27px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.footer-box2{
+    margin-left: 83px;
+    color: #a6a6a6;
+    font-size: 11.9px;
+    line-height: 27px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.footer-box3{
+    margin-left: 83px;
+    color: #a6a6a6;
+    font-size: 11.9px;
+    line-height: 27px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.footer-box4{
+    margin-left: 83px;
+    color: #a6a6a6;
+    font-size: 11.9px;
+    line-height: 27px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.footer-box5{
+    margin-left: 83px;
+    color: #a6a6a6;
+    font-size: 11.9px;
+    line-height: 27px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif!important;
+}
+.contact{
+    width: 1185px;
+    height: 50px;
+    margin: auto;
+    border-bottom: 1px solid #8c8c8c;
+    display: flex;
+}
+.paymet{
+    display: flex;
+    padding-top: 10px;
+    width: 490px;
+}
+.social-icons{
+    margin-top: 10px;
+    font-size: 22px;
+    margin-left: 54px;
+    color: black;
+}
+.social-icons span{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: #8c8c8c;
+}
